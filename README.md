@@ -4,7 +4,7 @@
 
 <p align="center"><img align="center" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cypher30&layout=compact&theme=maroongold&hide=html,tex,jupyter%20notebook"></p>
 
-- 🔭 I’m an undergraduate in <br><a href="https://sds.fudan.edu.cn/">School of Data Science, Fudan University</a>.
+- 🔭 I’m an undergraduate in <strong><a href="https://sds.fudan.edu.cn/">School of Data Science, Fudan University</a></strong>.
 - 🌱 I’m currently learning HPC and machine learning.
 - 📫 Contact: johnyao0404 [AT] outlook [DOT] com
-- 💻 Personal homepage: <a href="https://cypher30.github.io/">cypher30.github.io</a>
+- 💻 Personal homepage: <strong><a href="https://cypher30.github.io/">cypher30.github.io</a></strong>
