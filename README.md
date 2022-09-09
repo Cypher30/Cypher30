@@ -6,5 +6,6 @@
 
 - 🔭 I’m an undergraduate in <strong><a href="https://sds.fudan.edu.cn/">School of Data Science, Fudan University</a></strong>.
 - 🌱 I’m currently learning HPC and machine learning.
+- 🏀 I love playing basketball. Let's Go Dub Nation!!!
 - 📫 Contact: johnyao0404 [AT] outlook [DOT] com
 - 💻 Personal homepage: <strong><a href="https://cypher30.github.io/">cypher30.github.io</a></strong>
