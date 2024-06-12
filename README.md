@@ -7,5 +7,5 @@
 - 🔭 I’m a first-year Ph.D. in <strong><a href="https://oden.utexas.edu">Oden Institute, University of Texas at Austin</a></strong>.
 - 🌱 I’m currently learning HPC and machine learning.
 - 🏀 I love playing basketball. Let's Go Dub Nation!!!
-- 📫 Contact: johnyao0404 [AT] outlook [DOT] com
+- 📫 Contact: johnyao [AT] utexas [DOT] edu
 - 💻 Personal homepage: <strong><a href="https://cypher30.github.io/">cypher30.github.io</a></strong>
