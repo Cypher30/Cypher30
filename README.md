@@ -7,12 +7,12 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=Cypher30&show_icons=true&count_private=true&theme=maroongold&hide=issues&line_height=30" 
+    src="https://github-readme-stats.vercel.app/api?username=Cypher30&show_icons=true&theme=maroongold&hide=issues&line_height=30" 
     width="400px" 
     alt="John's GitHub stats"
   />
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Cypher30&theme=maroongold" 
+    src="https://streak-stats.demolab.com/?user=Cypher30&theme=maroongold" 
     width="400px" 
     alt="John's GitHub streak stats"
   />
