@@ -2,7 +2,6 @@
 
 <p align="center">
   <a href="https://cypher30.github.io/"><strong>Homepage</strong></a> ·
-  <a href="mailto:johnyao@utexas.edu"><strong>Email</strong></a> ·
   <a href="https://oden.utexas.edu"><strong>Oden Institute</strong></a>
 </p>
 
